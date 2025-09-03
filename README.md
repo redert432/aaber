@@ -11,3 +11,5 @@ git push -u origin main
 }
 
 https://USERNAME.github.io/aaber
+USERNAME.githubUSERNAM.io
+aaber.com
